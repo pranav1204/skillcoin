@@ -1,3 +1,5 @@
+![Image Alt](https://github.com/pranav1204/skillcoin/blob/bb9be1f7be94e8933d28fd1adee1baec2186cde0/logo_hd.png)
+
 # SkillCoin (SKILL)
 
 SkillCoin is the native token of the Skillspeer ecosystem — a platform connecting freelancers, students, and recruiters in a real-world collaborative gig economy.
